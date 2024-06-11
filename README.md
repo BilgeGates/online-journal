@@ -23,7 +23,7 @@ IX. <b>Charts</b>: Various types of charts (Line, Area, Bar, Pie, Financial, Col
 
 </p>
 <hr />
-<img align="center" src="./public/project_img.png">
+<img src="./public/project_img.png">
 <hr />
 <h2>🍿 Features </h2>
 <ul>    
