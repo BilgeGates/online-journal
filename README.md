@@ -1,16 +1,11 @@
 <h1 align="center">Online Journal</h1>
 <p>
 <h2>Introduction</h2>
-
 Welcome to our online journal project! This web application serves as a comprehensive dashboard site designed to provide a seamless and intuitive experience for managing various aspects of your digital journal. With an array of features and functionalities, it is tailored to meet the needs of both individuals and organizations seeking an efficient way to handle their journal entries, tasks, and data visualization.
-
 </p>
-
 <p>
 <h2>Categories</h2>
-
-The dashboard encompasses several categories, each serving a specific purpose:
-
+The dashboard encompasses several categories, each serving a specific purpose: <br />
 I. <b>Ecommerce</b>: Manage and monitor your ecommerce activities, track sales, and analyze performance. <br />
 II. <b>Orders</b>: Oversee all your orders with detailed tracking and management capabilities. <br />
 III. <b>Employees</b>: Maintain employee information, track performance, and manage HR-related tasks. <br />
@@ -20,7 +15,6 @@ VI. <b>Editor</b>: A rich text editor for creating and editing journal entries a
 VII. <b>Calendar</b>: Schedule and manage your events, deadlines, and appointments with ease. <br />
 VIII. <b>Color Picker</b>: A tool for selecting and managing colors for various aspects of your journal. <br />
 IX. <b>Charts</b>: Various types of charts (Line, Area, Bar, Pie, Financial, Color Mapping, Pyramid, Stacked) to visualize your data for better insights and analysis. <br />
-
 </p>
 <hr />
 <img src="./public/project_img.png">
