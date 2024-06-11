@@ -5,7 +5,8 @@ Welcome to our online journal project! This web application serves as a comprehe
 </p>
 <p>
 <h2>Categories</h2>
-The dashboard encompasses several categories, each serving a specific purpose: <br />
+The dashboard encompasses several categories, each serving a specific purpose:
+
 I. <b>Ecommerce</b>: Manage and monitor your ecommerce activities, track sales, and analyze performance. <br />
 II. <b>Orders</b>: Oversee all your orders with detailed tracking and management capabilities. <br />
 III. <b>Employees</b>: Maintain employee information, track performance, and manage HR-related tasks. <br />
