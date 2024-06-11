@@ -8,6 +8,11 @@
 .navbar {
   z-index: 10000;
 }
+@media screen and (max-width: 800px) {
+  .sidebar {
+    z-index: 10000000;
+  }
+}
 
 .e-dlg-center-center,
 .e-quick-popup-wrapper.e-device {
@@ -48,12 +53,4 @@
 .e-input-group.e-control-wrapper.e-warning:not(.e-float-icon-left),
 .e-input-group.e-control-wrapper.e-error:not(.e-float-icon-left) {
   border: none;
-}
-
-/* ========================================= MEDIA QUERIES ========================================= */
-
-@media screen and (max-width: 800px) {
-  .sidebar {
-    z-index: 10000000;
-  }
 }
