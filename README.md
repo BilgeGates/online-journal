@@ -11,15 +11,15 @@ Welcome to our online journal project! This web application serves as a comprehe
 
 The dashboard encompasses several categories, each serving a specific purpose:
 
-I. <b>Ecommerce</b>: Manage and monitor your ecommerce activities, track sales, and analyze performance.
-II. <b>Orders</b>: Oversee all your orders with detailed tracking and management capabilities.
-III. <b>Employees</b>: Maintain employee information, track performance, and manage HR-related tasks.
-IV. <b>Customers</b>: Handle customer data, interactions, and support queries efficiently.
-V. <b>Kanban</b>: Implement and manage your tasks using the Kanban methodology for better project management.
-VI. <b>Editor</b>: A rich text editor for creating and editing journal entries and other textual content.
-VII. <b>Calendar</b>: Schedule and manage your events, deadlines, and appointments with ease.
-VIII. <b>Color Picker</b>: A tool for selecting and managing colors for various aspects of your journal.
-IX. <b>Charts</b>: Various types of charts (Line, Area, Bar, Pie, Financial, Color Mapping, Pyramid, Stacked) to visualize your data for better insights and analysis.
+I. <b>Ecommerce</b>: Manage and monitor your ecommerce activities, track sales, and analyze performance. <br />
+II. <b>Orders</b>: Oversee all your orders with detailed tracking and management capabilities. <br />
+III. <b>Employees</b>: Maintain employee information, track performance, and manage HR-related tasks. <br />
+IV. <b>Customers</b>: Handle customer data, interactions, and support queries efficiently. <br />
+V. <b>Kanban</b>: Implement and manage your tasks using the Kanban methodology for better project management. <br />
+VI. <b>Editor</b>: A rich text editor for creating and editing journal entries and other textual content. <br />
+VII. <b>Calendar</b>: Schedule and manage your events, deadlines, and appointments with ease. <br />
+VIII. <b>Color Picker</b>: A tool for selecting and managing colors for various aspects of your journal. <br />
+IX. <b>Charts</b>: Various types of charts (Line, Area, Bar, Pie, Financial, Color Mapping, Pyramid, Stacked) to visualize your data for better insights and analysis. <br />
 
 </p>
 <hr />
