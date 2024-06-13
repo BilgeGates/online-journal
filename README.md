@@ -48,4 +48,4 @@ npm start</p>
  ```
 <hr />
 <h2>🍿 Demo </h2>
-<p> - Check out our live demo at https://online-journal.netlify.app/ </p>
+<p> - Check out our live demo at https://online-dashboard-journal.netlify.app/ </p>
