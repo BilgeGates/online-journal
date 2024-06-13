@@ -46,6 +46,3 @@ npm start</p>
 ```bash
     npm start
  ```
-<hr />
-<h2>🍿 Demo </h2>
-<p> - Check out our live demo at https://online-dashboard-journal.netlify.app/ </p>
